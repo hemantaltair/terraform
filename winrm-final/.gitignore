@@ -1,0 +1,5 @@
+*.tfstate
+*.tfstate.backup
+out.plan
+terraform.tfstate
+.terraform
